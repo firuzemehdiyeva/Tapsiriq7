@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body>
+ <nav class="navbar">
+    <div class="logo"> 
+      <img src="icon1.jpg" alt="">
+        <h2>My house</h2>
+    </div>
+    <ul>
+        <li> <a href=""> Home</a></li>
+        <li> <a href="">Product</a></li>
+        <li> <a href="">Blog</a></li>
+        <li> <a href="">About</a></li>
+        <li> <a href="">Contact</a></li>
+    </ul>
+    <div class="lanpa">
+    <img src="77.png" alt="">
+    <i class="fa-solid fa-user-secret"></i>
+  </div>
+</nav>
+<div class="image">
+
+    <h1>Modern Comfortable <br> Home Furniture</h1> 
+ <p>Furniture is one of the mest impertant parts of our hemes and makes our hemes beautifal and comfortable.On our furniture e-commerce site,you can find all kinds of furniture products for your home.</p>
+</div>
+
+    <center>
+        <h1 class="h1">Products</h1>
+    </center>
+    <p class="p">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laudantium id ipsa sunt fuga, provident rerum consectetur voluptates excepturi, aut aspernatur et. Facere vel dicta placeat nihil quia praesentium fuga error?</p>
+    <div class="products" >
+        <div class="product">
+      <div class="pro_img">
+        <img src="yataq desti.jpg" alt="">
+      </div>
+      <div class="icon">
+        <i class="fa-regular fa-heart"></i>
+      </div>
+      <div class="pro_text">
+        <h3>Cross yataq dəsti</h3>
+        <div class="Buy">
+          <p>400 $</p>
+          <button>Buy</button>
+        </div>
+      </div>
+       </div>
+      
+       <div class="product">
+        <div class="pro_img">
+          <img src="yataq desti.jpg" alt="">
+        </div>
+        <div class="icon">
+          <i class="fa-regular fa-heart"></i>
+        </div>
+        <div class="pro_text">
+          <h3>Crass yataq dəsti</h3>
+          <div class="Buy">
+            <p>400 $</p>
+            <button>Buy</button>
+          </div>
+        </div>
+         </div>
+      
+         <div class="product">
+          <div class="pro_img">
+            <img src="yataq desti.jpg" alt="">
+          </div>
+          <div class="icon">
+            <i class="fa-regular fa-heart"></i>
+          </div>
+          <div class="pro_text">
+            <h3>Cross yataq dəsti</h3>
+            <div class="Buy">
+              <p>400 $</p>
+              <button>Buy</button>
+            </div>
+          </div>
+           </div>
+      
+           <div class="product">
+            <div class="pro_img">
+              <img src="yataq desti.jpg" alt="">
+            </div>
+            <div class="icon">
+              <i class="fa-regular fa-heart"></i>
+            </div>
+            <div class="pro_text">
+              <h3>Cross yataq dəsti</h3>
+              <div class="Buy">
+                <p>400 $</p>
+                <button>Buy</button>
+              </div>
+            </div>
+             </div>
+      
+             <div class="product">
+              <div class="pro_img">
+                <img src="yataq desti.jpg" alt="">
+              </div>
+              <div class="icon">
+                <i class="fa-regular fa-heart"></i>
+              </div>
+              <div class="pro_text">
+                <h3>Cross yataq dəsti</h3>
+                <div class="Buy">
+                  <p>400 $</p>
+                  <button>Buy</button>
+                </div>
+              </div>
+               </div>
+      
+               <div class="product">
+                <div class="pro_img">
+                  <img src="yataq desti.jpg" alt="">
+                </div>
+                <div class="icon">
+                  <i class="fa-regular fa-heart"></i>
+                </div>
+                <div class="pro_text">
+                  <h3>Cross yataq dəsti</h3>
+                  <div class="Buy">
+                    <p>400 $</p>
+                    <button>Buy</button>
+                  </div>
+                </div>
+                 </div>
+      
+                 <div class="product">
+                  <div class="pro_img">
+                    <img src="yataq desti.jpg" alt="">
+                  </div>
+                  <div class="icon">
+                    <i class="fa-regular fa-heart"></i>
+                  </div>
+                  <div class="pro_text">
+                    <h3>Cross yataq dəsti</h3>
+                    <div class="Buy">
+                      <p>400 $</p>
+                      <button>Buy</button>
+                    </div>
+                  </div>
+                   </div>
+      
+                   <div class="product">
+                    <div class="pro_img">
+                      <img src="yataq desti.jpg" alt="">
+                    </div>
+                    <div class="icon">
+                      <i class="fa-regular fa-heart"></i>
+                    </div>
+                    <div class="pro_text">
+                      <h3>Cross yataq dəsti</h3>
+                      <div class="Buy">
+                        <p>400 $</p>
+                        <button>Buy</button>
+                      </div>
+                    </div>
+                     </div>
+      </div>
+</section>
+<div class="image2">
+    <h2>AVROPA <br> ISTEHSALINA DƏSTƏK</h2>
+ <p>Məhsullarimiz Yuksək Keyfiyyətli Avropa Parcasinda Hazirlanir və AVROPADA KÜCÜK Qruo <br> CAFTSPEOPLE tərərfindən tikilir</p>
+</div>
+<div class="image3">
+    <img src="003.jpg" alt="">
+    <div>
+<h1>About</h1>
+<p>Mebel erkən sivilizasiyalardan bəri mövcuddur. Bir neçə araşdırmaya görə, onun konsepsiyası eramızdan əvvəl 3500 -cü ilə aid edilə bilər O dövrdə heç bir texnologiya və ya mövcud bilik olmadığı üçün daşdan oyulmuş çox sadə dizaynları gözləmək olar. Mebelin necə görünməsi və ya başqa hansı xüsusiyyətlərə sahib olması baxımından heç bir məqsəd yox idi. Parça öz məqsədinə xidmət edə biləcəyi müddətdə (məsələn, oturmaq, əşyalar yerləşdirmək və s.) Getmək yaxşı olar.16. əsrə doğru irəliləməklə Avropa klassik mebel parçaları istehsal etməyə başladı.Bu dövrdə mebel parçalarının dəyəri nə qədər vaxt alacağından asılı idi. Beləliklə, daha ətraflı dizayn və formalar daha bahalı idi, çünki başa çatdırmaq üçün daha çox vaxt lazım idi. Həm də insanların sosial statuslarının mebel dizaynına əsaslandığı dövr idi.  </p>
+</div>
+</div>
+<div class="left">
+  <i class="fa-solid fa-chevron-left"></i>
+</div>
+</body>
+</html>
